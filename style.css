@@ -1,0 +1,97 @@
+.gallery img{
+    width: 20px;
+    height: 20px;
+
+
+    
+}
+
+
+#header img{
+  display: block;
+  margin : auto;
+  height : 80%;
+  width  : 25%; 
+  padding-top: 15px; 
+}
+
+   
+   body
+   {
+       background-color:bisque;
+       
+   }
+   
+   #menu{
+         width: 20;
+         height: 40px;
+         background-color: palevioletred;
+         padding-top: 12px;
+   }
+   
+   #menu a{
+         color: #fff;
+         font-family: Helvetica, sans-serif;
+         font-size: 18px;
+         text-decoration:none;
+         font-weight: 800px;
+         
+         padding-left: 20px;
+         padding-right: 20px;
+   
+   }
+
+#header img{
+ display: block;
+ margin : auto;
+ height : 70%;
+ padding-top: 15px; 
+}
+
+table{
+       background-color: burlywood;
+   }
+  
+   #mall{
+    padding-top: 5px;
+    display: block;
+    margin-top: 119px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #mall h3{
+      font-family: cursive;
+      text-align: center;
+      font-size: 37px;
+  }
+  
+  #tabs-bottom a:hover{
+    color: blue;
+}
+
+input{
+      width: 100%;
+      height: 25px;
+      margin : 12px 0;
+      border : 1px solid #929292;
+}
+
+  textarea{
+    width: 100%;
+    height :65px;
+    margin : 12px 0;
+    border : 1px solid #929292;
+}
+  .button{
+    display : block;
+    widows: 100%;
+    background-color: forestgreen;
+    text-decoration : none;
+    text-align  : center;
+    color       : white;
+    font-size   : 16px;
+    font-weight : 600;
+    margin : 12px 0;
+    padding : 8px 0;
+}
